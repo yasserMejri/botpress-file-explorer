@@ -35,6 +35,8 @@ And chokidar will set up the watcher that detects the changes(create/rename/dele
 
 With this solution, we can get up-to-date for sub directories/files of the input paths all the time.
 
+e.g.
+Test Paths could be './' or './node_modules'
 ## Improvement
 There will be a lot more logic to implement on this project.
 But one thing I am willing to implement for the next time if you want is async path load.
